@@ -3,24 +3,19 @@
 /*
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
-
 */
 
 /*
 MIT License
-
 Copyright (c) 2018-2019 Mega-Mewthree
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -252,7 +247,6 @@ class NoDeleteMessages {
 
 /*
 -----BEGIN PGP SIGNATURE-----
-
 iQEzBAEBCgAdFiEEGTGecftnrhRz9oomf4qgY6FcSQsFAlzDqyAACgkQf4qgY6Fc
 SQsd+QgAxHbbXNCyVdGRF8aQfSEMjmmAZsAyxUgCiZXtj3jh7/SpBoEqWiVUcS3g
 sSPVpP7271esTVuGJp4MhEX0C9WKVceJy50IE9MQ9zVI0CF2xj//xzDTfJhyrM2g
